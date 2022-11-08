@@ -1,4 +1,4 @@
-### 설치 방법
+## homebrew 설치 방법
 
 [https://brew.sh/index_ko](https://brew.sh/index_ko) 
 
